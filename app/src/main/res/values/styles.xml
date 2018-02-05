@@ -3,10 +3,10 @@
     <!-- Base application theme. -->
     <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
         <!-- Customize your theme here. -->
-        <item name="colorPrimary">@android:color/holo_green_light</item>
-        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
-        <item name="colorAccent">@color/colorAccent</item>
-        <item name="colorButtonNormal">@android:color/holo_green_light</item>
+        <item name="colorPrimary">#76FF03</item>
+        <item name="colorPrimaryDark">#64DD17</item>
+        <item name="colorAccent">#64DD17</item>
+        <item name="colorButtonNormal">#76FF03</item>
     </style>
 
 </resources>
